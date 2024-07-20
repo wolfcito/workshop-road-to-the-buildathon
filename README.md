@@ -4,7 +4,7 @@
 
 ⚙️ Herramientas NextJS, RainbowKit, Hardhat, Wagmi, Viem, and Typescript.
 
-![Workshop ETH ECUADOR - PUSH PROTOCOL - MODE NETWORK](workshop.png)
+![Workshop PUSH PROTOCOL - MODE NETWORK](workshop.png)
 
 ## Requerimientos
 
@@ -21,8 +21,8 @@ Para para iniciar el dapp
 1. Clone this repo & install dependencies
 
 ```
-git clone https://github.com/wolfcito/workshop-eth-ecuador
-cd workshop-eth-ecuador
+git clone https://github.com/wolfcito/workshop-road-to-the-buildathon
+cd workshop-road-to-the-buildathon
 yarn install
 ```
 
